@@ -1,6 +1,18 @@
-# eureka-challenge
+# Eureka VueJS Challenge Mums Deals
 
 > A Vue.JS challenge from Eureka Labs
+
+## Description
+
+VueJS challenge from Eureka Labs
+Guides, notes and wireframes are [here](https://github.com/eurekalabs-io/challenges/tree/main/frontend/vue.js/mums-deals)
+
+## Live Demo
+
+The app is deployed on [Heroku](https://eureka-vue-challenge.herokuapp.com/)
+
+![screenshot](https://user-images.githubusercontent.com/12024770/149243455-9a1780cc-f919-4470-92a8-1526a73adf3d.png)
+
 
 ## Build Setup
 
