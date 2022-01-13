@@ -4,7 +4,7 @@
 
 ## Description
 
-VueJS challenge from Eureka Labs
+VueJS challenge from Eureka Labs.
 Guides, notes and wireframes are [here](https://github.com/eurekalabs-io/challenges/tree/main/frontend/vue.js/mums-deals)
 
 ## Live Demo
